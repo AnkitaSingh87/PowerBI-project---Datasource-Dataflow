@@ -4,7 +4,7 @@
 
 **📌Overview**
 
-This repository contains an interactive dashboard built to analyze insurance data. The dashboard provides insights into overall portfolio trends, performance metrics, and policy type distributions.
+This repository contains an interactive dashboard built to analyze insurance data. The dashboard provides insights into overall portfolio trends and policy type distributions.
 
 ---
 
@@ -31,24 +31,17 @@ This repository contains an interactive dashboard built to analyze insurance dat
 
 The dashboard highlights the following KPIs to measure insurance portfolio performance:-
 
-Total Premiums Collected – Sum of all premiums across policies
+1-Total Premiums Collected – Sum of all premiums across policies
 
-Average Premium per Policy – Mean premium value to assess affordability and revenue per policy
+2-Average Premium per Policy – Mean premium value to assess affordability and revenue per policy
 
-Claim Frequency – Number of claims filed relative to total policies
+3-Claim Frequency – Number of claims filed relative to total policies
 
-Claim Severity – Average cost per claim, indicating risk exposure
+4-Policy Count – Total number of active policies in the dataset
 
-Loss Ratio – Ratio of claims paid to premiums collected (profitability indicator)
+5-Insurance Type Distribution – Percentage breakdown of different policy categories
 
-Policy Count – Total number of active policies in the dataset
-
-Customer Retention Rate – Percentage of customers renewing policies year-over-year
-
-Insurance Type Distribution – Percentage breakdown of different policy categories
-
-Year-over-Year Premium Growth – Tracks revenue growth trends over time
-
+6-Analyze the policy through filter
 
 
 
